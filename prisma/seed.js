@@ -49,6 +49,7 @@ async function main() {
         cookTime: 20,
         servings: 4,
         category: 'Main Dish',
+        imageUrl: 'https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=80',
         userId: wanjiku.id,
       },
       {
@@ -59,6 +60,7 @@ async function main() {
         cookTime: 60,
         servings: 6,
         category: 'Main Dish',
+        imageUrl: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=80',
         userId: ochieng.id,
       },
       {
@@ -69,6 +71,7 @@ async function main() {
         cookTime: 45,
         servings: 8,
         category: 'Bread',
+        imageUrl: 'https://images.unsplash.com/photo-1614707262808-1f7f6aecd2f4?auto=format&fit=crop&w=1200&q=80',
         userId: wanjiku.id,
       },
       {
@@ -79,6 +82,7 @@ async function main() {
         cookTime: 15,
         servings: 4,
         category: 'Side Dish',
+        imageUrl: 'https://images.unsplash.com/photo-1546793665-c74683f339c1?auto=format&fit=crop&w=1200&q=80',
         userId: wanjiku.id,
       },
       {
@@ -89,6 +93,7 @@ async function main() {
         cookTime: 60,
         servings: 6,
         category: 'Main Dish',
+        imageUrl: 'https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=1200&q=80',
         userId: ochieng.id,
       },
       {
@@ -99,6 +104,7 @@ async function main() {
         cookTime: 40,
         servings: 12,
         category: 'Snack',
+        imageUrl: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=1200&q=80',
         userId: amina.id,
       },
       {
@@ -109,6 +115,7 @@ async function main() {
         cookTime: 120,
         servings: 6,
         category: 'Main Dish',
+        imageUrl: 'https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80',
         userId: wanjiku.id,
       },
       {
@@ -119,6 +126,7 @@ async function main() {
         cookTime: 45,
         servings: 6,
         category: 'Main Dish',
+        imageUrl: 'https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=1200&q=80',
         userId: wanjiku.id,
       },
       {
@@ -129,6 +137,7 @@ async function main() {
         cookTime: 10,
         servings: 6,
         category: 'Side Dish',
+        imageUrl: 'https://images.unsplash.com/photo-1543332164-6e82f355badc?auto=format&fit=crop&w=1200&q=80',
         userId: amina.id,
       },
       {
@@ -139,6 +148,7 @@ async function main() {
         cookTime: 30,
         servings: 4,
         category: 'Main Dish',
+        imageUrl: 'https://images.unsplash.com/photo-1559847844-5315695dadae?auto=format&fit=crop&w=1200&q=80',
         userId: ochieng.id,
       },
     ],
